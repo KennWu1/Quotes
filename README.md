@@ -1,9 +1,8 @@
 
-<h1> Quotes List</h1>
-<b>A place to put good quotes.</b>
+<h1> Quotes!</h1>
+<b>Favorite quotes list.</b>
 <br>
 <br>
-
 <b>"Before borrowing money from a friend, decide which you need most."</b> <em> —Addison H. Hallock </em>
 
 <b>"Everything is changing. People are taking their comedians seriously and the politicians as a joke." </b> <em> —Will Rogers </em>
