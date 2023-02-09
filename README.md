@@ -1,5 +1,4 @@
 
-<h1> Quotes!</h1>
 <b>Favorite quotes list.</b>
 <br>
 <br>
