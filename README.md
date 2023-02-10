@@ -1,4 +1,6 @@
-
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="https://drive.google.com/file/d/1mmvrqYYLG-L2clyewv2OmtrLWKgYwCU0/view?usp=sharing">
+  </head>
 <b>Favorite quotes list.</b>
 <br>
 <br>
