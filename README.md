@@ -12,6 +12,8 @@
 
 <b>"Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones."</b> <em> ― Marcus Aurelius </em>
 
-<b> "Sand is just dirty glass." </b> <em> ― Kenn Wu </em>
+<b> "Sand is just dirty glass."</b> <em> ― Kenn Wu </em>
 
-<b> "They make a desolation and call it peace." <b> <em> ― Gaius Cornelius Tacitus </em>
+<b> "They make a desolation and call it peace." </b> <em> ― Gaius Cornelius Tacitus </em>
+
+<b> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b> <em> ― Martin Fowler </em>
