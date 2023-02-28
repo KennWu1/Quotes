@@ -14,4 +14,4 @@
 
 <b> "Sand is just dirty glass." </b> <em> ― Kenn Wu </em>
 
-<b> "They make a desolation and call it peace." </b< <em> ― Gaius Cornelius Tacitus </em>
+<b> "They make a desolation and call it peace." <b> <em> ― Gaius Cornelius Tacitus </em>
