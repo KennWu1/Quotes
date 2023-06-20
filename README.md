@@ -1,4 +1,4 @@
-<h1>Favorite Quotes List</h1>
+<h1>Favorite Quotes: </h1>
 
 <b>"Before borrowing money from a friend, decide which you need most."</b> <em> —Addison H. Hallock </em>
 
