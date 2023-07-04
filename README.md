@@ -15,3 +15,5 @@
 <b> "They make a desolation and call it peace." </b> <em> ― Gaius Cornelius Tacitus </em>
 
 <b> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b> <em> ― Martin Fowler </em>
+
+<b> "If you aren't paying for a product then you are the product" </b> <em> - Shoshana Zuboff </em>
