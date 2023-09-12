@@ -17,3 +17,5 @@
 <b> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b> <em> ― Martin Fowler </em>
 
 <b> "If you aren't paying for a product then <i>you</i> are the product" </b> <em> - Shoshana Zuboff </em>
+
+<b> "I wasted time, and now doth time waste me." </b> <em> - William Shakespeare </em>
