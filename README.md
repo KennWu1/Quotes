@@ -2,7 +2,7 @@
 
 <b>"Before borrowing money from a friend, decide which you need most."</b> <em> —Addison H. Hallock </em>
 
-<b> "Study like your life depends on it. Because it does. </b> -  Kenn Wu </em>
+<b> "Study like your life depends on it. Because it does. </b> -  <em> Kenn Wu </em>
 
 <b>"Everything is changing. People are taking their comedians seriously and the politicians as a joke." </b> <em> —Will Rogers </em>
 
